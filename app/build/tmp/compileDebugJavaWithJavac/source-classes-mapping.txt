@@ -1,0 +1,21 @@
+com/example/mappoject/FetchURL.java
+ com.example.mappoject.FetchURL
+com/example/mappoject/MainActivity.java
+ com.example.mappoject.MainActivity
+ com.example.mappoject.MainActivity$1
+ com.example.mappoject.MainActivity$2
+ com.example.mappoject.MainActivity$3
+ com.example.mappoject.MainActivity$4
+ com.example.mappoject.MainActivity$5
+com/example/mappoject/PointsParser.java
+ com.example.mappoject.PointsParser
+com/example/mappoject/BuildConfig.java
+ com.example.mappoject.BuildConfig
+com/example/mappoject/TaskLoadedCallback.java
+ com.example.mappoject.TaskLoadedCallback
+com/example/mappoject/DataParser.java
+ com.example.mappoject.DataParser
+com/example/mappoject/SplashActivity.java
+ com.example.mappoject.SplashActivity
+ com.example.mappoject.SplashActivity$1
+ com.example.mappoject.SplashActivity$2

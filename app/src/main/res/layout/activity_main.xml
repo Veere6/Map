@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:elevation="20dp"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:weightSum="2"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:src="@drawable/ic_baseline_location_on_24"
+                android:padding="5dp"
+                android:layout_weight="1"
+                android:layout_height="20dp"
+                app:tint="#70000000"></ImageView>
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:scaleType="fitXY"
+                app:tint="#70000000"
+                android:src="@drawable/pic_des"></ImageView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="vertical"
+                android:layout_weight="1.9"
+                android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/edittext1"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@drawable/stoke"
+                android:gravity="center_vertical"
+                android:hint="Pickup Point"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:paddingLeft="15dp"
+                android:paddingRight="40dp"></EditText>
+
+            <EditText
+                android:id="@+id/edittext2"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_below="@id/edittext1"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/stoke"
+                android:hint="Destination Point"
+                android:maxLines="1"
+                android:singleLine="true"
+                android:paddingStart="15dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="10dp"></EditText>
+            </LinearLayout>
+            <ImageView
+                android:layout_width="30dp"
+                android:src="@drawable/arrows"
+                android:elevation="20dp"
+                android:layout_weight="0.1"
+                android:padding="5dp"
+                android:layout_height="match_parent"
+                app:tint="@color/quantum_grey600"></ImageView>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:layout_below="@id/start"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MapsActivity" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/start"
+        android:id="@+id/card"
+        android:visibility="gone"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="20dp"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:background="@color/white"
+            android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="Distance : 45km"
+            android:id="@+id/dis"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"></TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="Duretion :25 min"
+            android:layout_marginTop="5dp"
+            android:id="@+id/dure"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"></TextView>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+<com.google.android.material.floatingactionbutton.FloatingActionButton
+    android:layout_width="wrap_content"
+    android:background="@color/green"
+    android:layout_margin="20dp"
+    android:id="@+id/floating"
+    app:tint="@color/white"
+    android:src="@drawable/ic_baseline_my_location_24"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentBottom="true"
+    android:layout_height="wrap_content">
+</com.google.android.material.floatingactionbutton.FloatingActionButton>
+
+</RelativeLayout>

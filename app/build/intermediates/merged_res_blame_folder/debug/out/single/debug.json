@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrows.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\drawable\\arrows.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corner.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\drawable\\corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_current_location.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\drawable\\current_location.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_current_lock.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\current_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_current_lock.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\current_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_current_lock.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\current_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottomsheet.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\layout\\bottomsheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_current_lock.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\current_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_current_lock.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\current_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_my_location_24.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_my_location_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_current_lock.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\current_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_my_location_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_current_lock.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\current_lock.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stoke.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\drawable\\stoke.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_location.bmp.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-hdpi\\location.bmp"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_location_on_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_location_on_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_my_location_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pic_des.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\drawable\\pic_des.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_my_location_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.jpg.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\drawable\\location.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_my_location_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_my_location_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_search_24.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_search_24.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ABC\\AndroidStudioProjects\\MAPPoject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
